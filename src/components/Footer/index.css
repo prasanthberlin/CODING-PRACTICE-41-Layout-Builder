@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.footer {
+  background-color: #cbd5e1;
+  text-align: center;
+  padding: 30px;
+  color: #475569;
+  margin-top: 2px;
+}
+
+@media (min-width: 768px) {
+  .footer {
+    font-size: 45px;
+    margin-bottom: 12px;
+  }
+}

@@ -1,0 +1,12 @@
+/* Write your CSS here */
+
+.main-layout-container {
+  padding: 30px;
+}
+
+@media (min-width: 768px) {
+  .main-layout-container {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+}

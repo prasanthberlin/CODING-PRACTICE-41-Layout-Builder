@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.cc-layout-bg {
+  background-color: #475569;
+  padding: 5px 30px 10px 30px;
+  color: white;
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+.label-text {
+  margin-left: 10px;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+@media (min-width: 768px) {
+  .cc-layout-bg {
+    padding: 15px 60px 20px 80px;
+    color: white;
+  }
+  .layout-main-heading {
+    font-size: 45px;
+  }
+  .label-text {
+    font-size: 12px;
+  }
+}
